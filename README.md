@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
+<!--START_SECTION:activity-->
 
 <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=buianhtai1205&show_icons=true&theme=algolia&hide=contribs,prs" >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtai1205&layout=compact" >
