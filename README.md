@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtai1205&layout=compact" >
 
 <!--START_SECTION:waka-->
+
+```text
+PHP   49 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
