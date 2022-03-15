@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...HCM City University Technology and Education
-- 🌱 I’m currently learning ...PHP
+- 🔭 I’m currently studying at HCM City University Technology and Education
+- 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on ...PHP Laravel
 - 🤔 I’m looking for help with ...PHP
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...He/Him
+- 😄 Pronouns: ...He/You
 - ⚡ Fun fact: ...
 
 
