@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=buianhtai1205&show_icons=true&theme=algolia&hide=contribs,prs" alt="buianhtai1205" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buianhtai1205&show_icons=true&locale=en" alt="buianhtai1205" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtai1205&layout=compact" ></p>
 
 <!--START_SECTION:waka-->
 
