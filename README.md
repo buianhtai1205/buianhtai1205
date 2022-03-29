@@ -39,7 +39,7 @@
   <img src="https://www.quanta.org/free-phpstorm-licence/phpstorm-logo.png" title="PHPStorm"  alt="PHPStorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://i2.wp.com/www.globalwireonline.org/wp-content/uploads/2014/05/html5-css3.png" title="HTML & CSS" **alt="HTML & CSS" width="80" height="40"/>&nbsp;
+  <img src="https://i2.wp.com/www.globalwireonline.org/wp-content/uploads/2014/05/html5-css3.png" title="HTML & CSS" **alt="HTML & CSS" width="100" height="40"/>&nbsp;
   
  </div>
 
