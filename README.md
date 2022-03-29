@@ -27,9 +27,10 @@
 <h3 align="left">Frameworks/Platforms/Libraries:</h3>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
  </div>
 
+<h3 align="left">Github:</h3>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=buianhtai1205&show_icons=true&theme=algolia&hide=contribs,prs" alt="buianhtai1205" /></p>
 
