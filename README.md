@@ -35,8 +35,8 @@
  
 <h3 align="left">Tools: </h3>
 <div style="display: flex;">
-  <img src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.quanta.org/free-phpstorm-licence/phpstorm-logo.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" title="VS Code"  alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://www.quanta.org/free-phpstorm-licence/phpstorm-logo.png" title="PHPStorm"  alt="PHPStorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  </div>
