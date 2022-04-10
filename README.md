@@ -50,14 +50,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
+From: 02 April 2022 - To: 09 April 2022
 
-Blade Template   3 hrs 32 mins   ████████▓░░░░░░░░░░░░░░░░   34.27 %
-PHP              3 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.87 %
-Python           2 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-JavaScript       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-HTML             31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-JSON             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Blade Template   3 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   33.00 %
+PHP              3 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.97 %
+Python           2 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+JavaScript       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+HTML             31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+C#               27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
