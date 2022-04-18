@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2022 - To: 16 April 2022
+From: 10 April 2022 - To: 17 April 2022
 
-C#               8 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.50 %
-Python           5 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.38 %
-PHP              3 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Blade Template   2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Other            1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+C#               7 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.16 %
+Python           5 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   28.45 %
+PHP              2 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Blade Template   2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+Other            55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
