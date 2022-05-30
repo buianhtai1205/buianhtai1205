@@ -50,11 +50,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2022 - To: 28 May 2022
+From: 22 May 2022 - To: 29 May 2022
 
-Python   2 hrs 2 mins    ██████████████████████▓░░   90.96 %
-C++      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Other    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Python   40 mins         ████████████████████████▒   96.77 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
