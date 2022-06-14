@@ -50,7 +50,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
 HTML             1 hr 25 mins    ████████████░░░░░░░░░░░░░   47.96 %
 PHP              1 hr 9 mins     █████████▓░░░░░░░░░░░░░░░   39.11 %
