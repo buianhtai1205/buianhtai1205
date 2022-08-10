@@ -50,13 +50,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 July 2022 - To: 06 August 2022
+From: 02 August 2022 - To: 09 August 2022
 
-PHP              15 hrs 26 mins  ████████████████████░░░░░   80.11 %
-Blade Template   3 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-Text             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Bash             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+PHP              8 hrs 47 mins   ██████████████████░░░░░░░   72.01 %
+Blade Template   3 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.99 %
 ```
 
 <!--END_SECTION:waka-->
