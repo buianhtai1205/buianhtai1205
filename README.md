@@ -50,11 +50,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
-Blade Template   2 hrs 20 mins   ████████████▓░░░░░░░░░░░░   50.31 %
-PHP              2 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   44.80 %
-Python           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Python   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
