@@ -50,7 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 17 September 2022 - To: 24 September 2022
+
+C#      29 mins         █████████████████████▒░░░   85.89 %
+SQL     3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Other   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
