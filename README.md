@@ -50,11 +50,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-C#      29 mins         █████████████████████▒░░░   85.24 %
-SQL     3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Other   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Python   1 hr 9 mins     ████████████████▓░░░░░░░░   66.04 %
+C#       29 mins         ███████░░░░░░░░░░░░░░░░░░   28.03 %
+SQL      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
