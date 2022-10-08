@@ -50,10 +50,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 06 October 2022
-
-HTML     3 mins          ████████████████████████░   96.37 %
-Python   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
