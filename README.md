@@ -41,11 +41,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
  </div>
 
-<h3 align="left">Github:</h3>
+## GITHUB STATS 📈
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=buianhtai1205&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtai1205&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=buianhtai1205&show_icons=true&theme=algolia&hide=contribs,prs" alt="buianhtai1205" /></p>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtai1205&layout=compact" ></p>
+## GITHUB PROFILE TROPHY 🏆
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=buianhtai1205&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</p>
+
+## CODING ACTIVITY
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=buianhtai1205&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
 
 <!--START_SECTION:waka-->
 
