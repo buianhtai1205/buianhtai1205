@@ -3,15 +3,7 @@
 
 - 🔭 I’m currently studying at **HCM City University Technology and Education**
 
-- 🌱 I’m currently learning **PHP Laravel**
-
-- 🤝 I’m looking for help with **PHP**
-
-- 💬 Ask me about **PHP**
-
 - 📫 How to reach me **buianhtai2017tq@gmail.com**
-
-- ⚡ Fun fact **I think I am fun**
 
 <h3 align="left">Contact with me: </h3>
 <a href="https://www.facebook.com/profile.php?id=100012248492430" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
