@@ -54,9 +54,9 @@
 </p>
 
 ## CODING ACTIVITY
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=buianhtai1205&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
+</p> -->
 
 <!--START_SECTION:waka-->
 
