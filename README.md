@@ -50,6 +50,19 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=buianhtai1205&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p> -->
 <!--START_SECTION:waka-->
+
+```text
+From: 02 January 2023 - To: 09 January 2023
+
+Total Time: 11 hrs 6 mins
+
+JavaScript   8 hrs 3 mins    >>>>>>>>>>>>>>>>>>-------   72.53 %
+CSS          54 mins         >>-----------------------   08.22 %
+SCSS         53 mins         >>-----------------------   08.03 %
+JSON         43 mins         >>-----------------------   06.46 %
+Other        18 mins         >------------------------   02.72 %
+```
+
 <!--END_SECTION:waka-->
 
 
