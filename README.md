@@ -50,18 +50,5 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=buianhtai1205&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p> -->
 
-<!--START_SECTION:waka-->
-
-```text
-From: 23 October 2022 - To: 30 October 2022
-
-Python           21 mins         ███████████████▒░░░░░░░░░   61.71 %
-HTML             6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.37 %
-Blade Template   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-PHP              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-```
-
-<!--END_SECTION:waka-->
 
 
