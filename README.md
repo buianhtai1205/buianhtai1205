@@ -52,14 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-Total Time: 17 hrs 43 mins
+Total Time: 17 hrs 41 mins
 
-JavaScript   12 hrs 5 mins   █████████████████░░░░░░░░   68.20 %
-SCSS         3 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
+JavaScript   12 hrs 2 mins   █████████████████░░░░░░░░   68.11 %
+SCSS         3 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
 CSS          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-JSON         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+JSON         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
