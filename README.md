@@ -34,9 +34,9 @@
  </div>
 
 ## GITHUB STATS 📈
-<p style="width: 100%; display: flex; justify-content: space-around; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=buianhtai1205&show_icons=true&hide_border=true&theme=radical" />
-<img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtai1205&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+<p style="width: 100%; display: flex; justify-content: space-around; align-items: center; flex-direction: row;">
+<img style="width: 55%" src="https://github-readme-stats.vercel.app/api?username=buianhtai1205&show_icons=true&hide_border=true&theme=radical" />
+<img style="width: 40%; height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtai1205&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
 </p>
 
 
