@@ -36,7 +36,7 @@
 ## GITHUB STATS 📈
 <p style="width: 100%; display: flex; justify-content: space-around; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=buianhtai1205&show_icons=true&hide_border=true&theme=radical" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtai1205&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+<img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtai1205&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
 </p>
 
 
