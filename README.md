@@ -52,12 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 02 February 2023
+From: 27 January 2023 - To: 03 February 2023
 
-Total Time: 3 mins
+Total Time: 2 mins
 
-JavaScript   3 mins          ████████████████████████▒   97.14 %
-SCSS         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+JavaScript   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
