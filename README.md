@@ -52,16 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 February 2023 - To: 25 February 2023
+From: 19 February 2023 - To: 26 February 2023
 
-Total Time: 2 hrs 49 mins
+Total Time: 5 hrs 45 mins
 
-XML              2 hrs 37 mins   ███████████████████████▒░   93.21 %
-Java             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+XML              2 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.73 %
+Blade Template   1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
+JavaScript       29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+PHP              26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Python           21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+CSS              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
