@@ -52,16 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2023 - To: 13 March 2023
+From: 07 March 2023 - To: 14 March 2023
 
-Total Time: 6 hrs 37 mins
+Total Time: 5 hrs
 
-Java             1 hr 50 mins    ███████░░░░░░░░░░░░░░░░░░   27.78 %
-PHP              1 hr 47 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
-Python           1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-Blade Template   47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-XML              30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-JavaScript       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Java             1 hr 50 mins    █████████▒░░░░░░░░░░░░░░░   36.72 %
+Python           1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+PHP              49 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+XML              30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+JavaScript       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Text             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
