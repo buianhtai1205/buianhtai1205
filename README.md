@@ -54,15 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2023 - To: 04 April 2023
+From: 29 March 2023 - To: 05 April 2023
 
-Total Time: 20 hrs 10 mins
+Total Time: 15 hrs 17 mins
 
-Java             12 hrs 28 mins  ███████████████▒░░░░░░░░░   61.84 %
-XML              6 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.48 %
-Gradle           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Groovy           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-PHP              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java             10 hrs 38 mins  █████████████████▒░░░░░░░   69.54 %
+XML              4 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.89 %
+Gradle           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+PHP              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Groovy           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
