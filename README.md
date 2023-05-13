@@ -54,15 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2023 - To: 11 May 2023
+From: 05 May 2023 - To: 12 May 2023
 
-Total Time: 11 hrs 48 mins
+Total Time: 12 hrs 46 mins
 
-Java             8 hrs 19 mins   █████████████████▓░░░░░░░   70.54 %
-XML              2 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
-PHP              56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Java             9 hrs 21 mins   ██████████████████▒░░░░░░   73.21 %
+XML              2 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
+PHP              56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
