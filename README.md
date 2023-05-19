@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2023 - To: 17 May 2023
+From: 11 May 2023 - To: 18 May 2023
 
-Total Time: 15 hrs 53 mins
+Total Time: 21 hrs 39 mins
 
-Java               9 hrs 24 mins   ██████████████▓░░░░░░░░░░   59.25 %
-Python             4 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-YAML               1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-XML                14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Chameleon          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Python             9 hrs 57 mins   ███████████▒░░░░░░░░░░░░░   45.98 %
+Java               9 hrs 24 mins   ███████████░░░░░░░░░░░░░░   43.46 %
+YAML               1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Text               22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+XML                14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
