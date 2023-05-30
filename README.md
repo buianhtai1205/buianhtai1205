@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2023 - To: 28 May 2023
+From: 22 May 2023 - To: 29 May 2023
 
-Total Time: 12 hrs 39 mins
+Total Time: 14 hrs 24 mins
 
-Java               11 hrs 44 mins  ███████████████████████▒░   92.85 %
-Properties         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-textmate           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Python             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-XML                9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Java               13 hrs 9 mins   ███████████████████████░░   91.42 %
+Properties         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+XML                19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+textmate           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Python             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
