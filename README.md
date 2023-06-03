@@ -54,14 +54,14 @@
 </p> -->
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-Total Time: 14 hrs 14 mins
+Total Time: 14 hrs 48 mins
 
-Java         13 hrs 52 mins  ████████████████████████▒   97.48 %
-Properties   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-XML          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Java         14 hrs 26 mins  ████████████████████████▒   97.58 %
+Properties   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+XML          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
