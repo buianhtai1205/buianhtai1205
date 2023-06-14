@@ -55,13 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
-Total Time: 14 hrs 44 mins
+Total Time: 13 hrs 24 mins
 
-Java       11 hrs 37 mins  ███████████████████▓░░░░░   78.89 %
-Markdown   2 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
-XML        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Java             10 hrs 37 mins  ███████████████████▓░░░░░   79.19 %
+Markdown         2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+XML              31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
