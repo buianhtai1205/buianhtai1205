@@ -55,11 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
-Total Time: 0 secs
+Total Time: 1 hr 24 mins
 
-Java   0 secs          █████████████████████████   100.00 %
+Java             47 mins         ██████████████░░░░░░░░░░░   56.04 %
+Properties       23 mins         ███████░░░░░░░░░░░░░░░░░░   28.17 %
+XML              11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
