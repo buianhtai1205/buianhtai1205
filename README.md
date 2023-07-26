@@ -55,14 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-Total Time: 1 hr 24 mins
+Total Time: 2 hrs
 
-Java             47 mins         ██████████████░░░░░░░░░░░   56.04 %
-Properties       23 mins         ███████░░░░░░░░░░░░░░░░░░   28.17 %
-XML              11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Java             1 hr 8 mins     ██████████████▒░░░░░░░░░░   57.04 %
+Properties       26 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+XML              12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+GitIgnore file   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Markdown         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->
