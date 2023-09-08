@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
 Total Time: 16 hrs 14 mins
 
-Java                  13 hrs 53 mins  █████████████████████▒░░░   85.51 %
-Java Properties       58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-XML                   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-YAML                  21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Java                  14 hrs 28 mins  ██████████████████████▒░░   89.13 %
+Java Properties       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+XML                   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 Ezhil                 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Properties            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
