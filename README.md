@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 22 September 2023
+From: 16 September 2023 - To: 23 September 2023
 
-Total Time: 5 hrs 5 mins
+Total Time: 6 hrs 52 mins
 
-Java              3 hrs 29 mins   █████████████████░░░░░░░░   68.66 %
-Docker            1 hr 21 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
-YAML              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-XML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Java              6 hrs 47 mins   ████████████████████████▓   98.60 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+IDEA_MODULE       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
