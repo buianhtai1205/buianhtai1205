@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 25 September 2023
+From: 19 September 2023 - To: 26 September 2023
 
-Total Time: 6 hrs 38 mins
+Total Time: 5 hrs 56 mins
 
-Java              6 hrs 35 mins   ████████████████████████▓   99.31 %
-IDEA_MODULE       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java              5 hrs 55 mins   █████████████████████████   99.60 %
+IDEA_MODULE       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
