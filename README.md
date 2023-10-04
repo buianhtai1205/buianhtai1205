@@ -55,13 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2023 - To: 02 October 2023
+From: 26 September 2023 - To: 03 October 2023
 
-Total Time: 1 hr 38 mins
+Total Time: 3 hrs 22 mins
 
-Java         1 hr 23 mins    █████████████████████▒░░░   85.29 %
-Properties   13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-SQL          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Java              3 hrs 6 mins    ███████████████████████░░   92.27 %
+Properties        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
