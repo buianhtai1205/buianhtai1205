@@ -55,12 +55,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2023 - To: 09 October 2023
+From: 03 October 2023 - To: 10 October 2023
 
-Total Time: 10 hrs 55 mins
+Total Time: 9 hrs 35 mins
 
-Java              10 hrs 53 mins  █████████████████████████   99.78 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Java              9 hrs 34 mins   █████████████████████████   99.96 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
