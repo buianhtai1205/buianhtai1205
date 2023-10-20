@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2023 - To: 18 October 2023
+From: 12 October 2023 - To: 19 October 2023
 
-Total Time: 7 hrs 8 mins
+Total Time: 5 hrs 29 mins
 
-Java              7 hrs 1 min     ████████████████████████▓   98.25 %
-Java Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Java              5 hrs 22 mins   ████████████████████████▒   97.73 %
+Java Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
