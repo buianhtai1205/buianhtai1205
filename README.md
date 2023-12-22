@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2023 - To: 20 December 2023
+From: 14 December 2023 - To: 21 December 2023
 
-Total Time: 4 hrs 18 mins
+Total Time: 4 hrs 11 mins
 
-Java              3 hrs 45 mins   █████████████████████▓░░░   87.27 %
-Properties        26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-XML               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java              3 hrs 9 mins    ██████████████████▓░░░░░░   75.33 %
+Properties        25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+Java Properties   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+HTML              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Docker            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
