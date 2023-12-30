@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-Total Time: 2 hrs 56 mins
+Total Time: 2 hrs 55 mins
 
-Java              2 hrs 14 mins   ███████████████████░░░░░░   76.28 %
-Properties        23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Java Properties   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-HTML              8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-YAML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Java              2 hrs 14 mins   ███████████████████░░░░░░   76.16 %
+Properties        23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Java Properties   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+HTML              8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+YAML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
