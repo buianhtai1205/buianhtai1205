@@ -55,14 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Total Time: 14 mins
+Total Time: 0 secs
 
-Properties        12 mins         █████████████████████▒░░░   84.90 %
-Java              1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-Java Properties   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-HTML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Java   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
