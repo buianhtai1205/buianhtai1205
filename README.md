@@ -55,11 +55,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2024 - To: 12 February 2024
+From: 06 February 2024 - To: 13 February 2024
 
-Total Time: 0 secs
+Total Time: 20 mins
 
-No activity tracked
+Java   19 mins         ███████████████████████▓░   95.06 %
+SQL    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 
 <!--END_SECTION:waka-->
