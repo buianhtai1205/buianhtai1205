@@ -55,12 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 14 February 2024
+From: 08 February 2024 - To: 15 February 2024
 
-Total Time: 1 hr 49 mins
+Total Time: 3 hrs 16 mins
 
-Java   1 hr 36 mins    ██████████████████████░░░   88.10 %
-SQL    13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+Java              1 hr 52 mins    ██████████████▒░░░░░░░░░░   57.01 %
+Properties        46 mins         ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+SQL               27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+YAML              6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
