@@ -55,12 +55,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2024 - To: 13 March 2024
+From: 07 March 2024 - To: 14 March 2024
 
-Total Time: 5 hrs 6 mins
+Total Time: 5 hrs 14 mins
 
-Java         5 hrs 2 mins    ████████████████████████▓   98.74 %
-SQL          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Java         5 hrs 10 mins   ████████████████████████▓   98.77 %
+SQL          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
