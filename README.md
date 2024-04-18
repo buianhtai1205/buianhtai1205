@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2024 - To: 16 April 2024
+From: 10 April 2024 - To: 17 April 2024
 
-Total Time: 6 hrs 58 mins
+Total Time: 7 hrs 3 mins
 
-Java              6 hrs 43 mins   ████████████████████████░   96.43 %
-Java Properties   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              6 hrs 48 mins   ████████████████████████░   96.44 %
+Java Properties   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
