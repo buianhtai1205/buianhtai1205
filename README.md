@@ -55,14 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2024 - To: 03 January 2025
+From: 28 December 2024 - To: 04 January 2025
 
-Total Time: 5 hrs 33 mins
+Total Time: 2 hrs 9 mins
 
-Java              5 hrs 28 mins   ████████████████████████▓   98.53 %
-Java Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java              2 hrs 4 mins    ████████████████████████░   96.31 %
+Java Properties   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
