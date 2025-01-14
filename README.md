@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Total Time: 12 hrs 7 mins
+Total Time: 6 hrs 45 mins
 
-Java              10 hrs 6 mins   █████████████████████░░░░   83.41 %
-XML               1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Java Properties   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Properties        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-YAML              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Java              5 hrs 13 mins   ███████████████████▒░░░░░   77.34 %
+XML               1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+Java Properties   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Properties        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+YAML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
