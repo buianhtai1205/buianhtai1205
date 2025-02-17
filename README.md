@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2025 - To: 15 February 2025
+From: 09 February 2025 - To: 16 February 2025
 
-Total Time: 5 hrs 58 mins
+Total Time: 5 hrs 45 mins
 
-Java              4 hrs 57 mins   ████████████████████▓░░░░   83.11 %
-Python            27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Markdown          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Git               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Java              3 hrs 54 mins   █████████████████░░░░░░░░   67.89 %
+Python            27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+JSON              27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+TypeScript        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Markdown          21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka-->
