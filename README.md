@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 04 April 2025
+From: 29 March 2025 - To: 05 April 2025
 
-Total Time: 11 hrs 39 mins
+Total Time: 11 hrs 54 mins
 
-TypeScript        6 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.73 %
-Java              3 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   31.70 %
-SCSS              43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-YAML              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-XML               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript        6 hrs 5 mins    ████████████▓░░░░░░░░░░░░   51.13 %
+Java              1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+YAML              1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Docker            34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Java Properties   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
