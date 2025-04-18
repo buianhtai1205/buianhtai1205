@@ -55,14 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2025 - To: 16 April 2025
+From: 10 April 2025 - To: 17 April 2025
 
-Total Time: 7 hrs 30 mins
+Total Time: 7 hrs 24 mins
 
-SCSS         3 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   40.81 %
-HTML         2 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   33.94 %
-TypeScript   1 hr 35 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
-JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+SCSS         3 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   43.33 %
+HTML         2 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.06 %
+TypeScript   1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   20.12 %
+JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
