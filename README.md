@@ -55,11 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 42 mins
 
-No activity tracked
+SCSS         1 hr 5 mins     ██████████░░░░░░░░░░░░░░░   40.52 %
+TypeScript   59 mins         █████████░░░░░░░░░░░░░░░░   36.39 %
+HTML         26 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+Markdown     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
