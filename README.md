@@ -25,16 +25,6 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
  </div>
- 
-<h3 align="left">Tools: </h3>
-<div style="display: flex;">
-  <img src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" title="VS Code"  alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-192.2833764d.png" title="VS 2022"  alt="VS 2022" width="40" height="40"/>&nbsp;
-  <img src="https://www.quanta.org/free-phpstorm-licence/phpstorm-logo.png" title="PHPStorm"  alt="PHPStorm" width="40" height="40"/>&nbsp;
-  <img src="https://cybersoft.ru/uploads/posts/2020-11/1606209862_android-studio.png" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
- </div>
 
 ## GITHUB STATS 📈
 <p style="width: 100%; display: flex; justify-content: space-around; align-items: center; flex-direction: row;">
@@ -42,6 +32,9 @@
 <img style="width: 40%; height: 195px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buianhtai1205&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true"  alt="STATS" />
 </p>
 
+## GITHUB PROGRAM LANGUAGES
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt=""/>
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
