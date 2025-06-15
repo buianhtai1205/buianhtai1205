@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bui Anh Tai</h1>
-<h3 align="center">A backend developer from HCM</h3>
+<h3 align="center">A software engineer developer from HCM</h3>
 
-- 🔭 I’m currently studying at **HCM City University Technology and Education**
+- 🔭 I graduated at **HCM City University Technology and Education**
 
 - 📫 How to reach me **buianhtai2017tq@gmail.com**
 
@@ -11,20 +11,33 @@
 
 <h3 align="left">Programming Languages: </h3>
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
 </div>
 
 <h3 align="left">Frameworks: </h3>
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
  </div>
+
+<h3 align="left">Others: </h3>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff">
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff">
+</div>
 
 ## GITHUB STATS 📈
 <p style="width: 100%; display: flex; justify-content: space-around; align-items: center; flex-direction: row;">
