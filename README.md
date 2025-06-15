@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bui Anh Tai</h1>
-<h3 align="center">A software engineer developer from HCM</h3>
+<h3 align="center">A Software Engineer from HCM</h3>
 
 - 🔭 I graduated at **HCM City University Technology and Education**
 
