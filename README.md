@@ -29,6 +29,14 @@
   <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
  </div>
 
+<h3 align="left">Database: </h3>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+ </div>
+
 <h3 align="left">Others: </h3>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
