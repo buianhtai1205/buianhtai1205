@@ -69,15 +69,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2025 - To: 17 July 2025
+From: 11 July 2025 - To: 18 July 2025
 
-Total Time: 22 mins
+Total Time: 2 hrs 21 mins
 
-Git Config          11 mins         █████████████▓░░░░░░░░░░░   54.08 %
-Dart                9 mins          ███████████░░░░░░░░░░░░░░   43.95 %
-HTML                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Gradle Kotlin DSL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Markdown            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Dart                1 hr 45 mins    ██████████████████▓░░░░░░   74.22 %
+Git Config          19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+Markdown            16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+YAML                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+HTML                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
