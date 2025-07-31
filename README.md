@@ -69,15 +69,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2025 - To: 29 July 2025
+From: 23 July 2025 - To: 30 July 2025
 
-Total Time: 5 hrs 45 mins
+Total Time: 3 hrs 17 mins
 
-Dart                4 hrs 44 mins   ████████████████████▓░░░░   82.49 %
-YAML                19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-XML                 18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Markdown            16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Git                 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Dart                2 hrs 26 mins   ██████████████████▒░░░░░░   73.87 %
+Markdown            16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+XML                 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+YAML                12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Git                 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
