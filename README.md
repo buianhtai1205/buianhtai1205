@@ -69,12 +69,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-Total Time: 8 mins
+Total Time: 1 hr 20 mins
 
-Dart       5 mins          ████████████████░░░░░░░░░   64.08 %
-Markdown   2 mins          █████████░░░░░░░░░░░░░░░░   35.92 %
+Python       1 hr 11 mins    ██████████████████████░░░   88.22 %
+Dart         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
