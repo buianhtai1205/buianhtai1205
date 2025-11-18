@@ -69,14 +69,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-Total Time: 1 hr 56 mins
+Total Time: 28 mins
 
-Markdown   1 hr 40 mins    █████████████████████▓░░░   86.58 %
-HTML       14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-SQL        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+HTML       14 mins         ████████████▒░░░░░░░░░░░░   48.68 %
+Markdown   13 mins         ████████████░░░░░░░░░░░░░   48.14 %
+SQL        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
