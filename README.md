@@ -69,12 +69,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 15 mins
+Total Time: 0 secs
 
-YAML   12 mins         ███████████████████▓░░░░░   78.02 %
-Bash   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
